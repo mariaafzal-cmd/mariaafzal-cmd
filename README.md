@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Maria Afzal Hussain 👋
 
-<!--
-**mariaafzal-cmd/mariaafzal-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Student | Aspiring Penetration Tester
 
-Here are some ideas to get you started:
+I'm a Computer Science student focused on developing practical skills in offensive security and penetration testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔐 Current Focus
+
+- Web Application Security
+- Python Security Scripting
+- Network Penetration Testing
+- Linux & Networking Fundamentals
+- PortSwigger Web Security Academy
+
+### 🛠️ Tools & Technologies
+
+- Python
+- Burp Suite
+- Nmap
+- Wireshark
+- Metasploit
+- Linux
+- Git & GitHub
+
+### 📚 Learning
+
+Currently building my penetration testing skills through hands-on labs, security projects, and practical experimentation in authorized environments.
+
+### 🚀 Projects
+
+Coming soon — security automation and penetration testing projects.
+
+### 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/maria-afzal-hussain-9890153a0)
